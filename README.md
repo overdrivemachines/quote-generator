@@ -4,6 +4,8 @@ Displays random quotes
 
 ![Quote Generator Preview](preview.png)
 
+[Live Site](https://overdrivemachines.github.io/quote-generator/)
+
 ## Important Links
 
 - Hero Patterns https://heropatterns.com/
