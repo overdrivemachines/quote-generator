@@ -2,6 +2,8 @@
 
 Displays random quotes
 
+![Quote Generator Preview](preview.png)
+
 ## Important Links
 
 - Hero Patterns https://heropatterns.com/
